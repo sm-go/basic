@@ -20,6 +20,8 @@ func checkCleanliness(rooms [4]Room) {
 	}
 }
 
+//something
+
 func main() {
 	var arr [3]int
 	arr[0] = 343
